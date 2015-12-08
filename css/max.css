@@ -1,0 +1,16 @@
+
+
+/* questions and answers */
+.exercise .col-md-12,
+.asked .col-md-12{
+    padding-left: 38px;
+    width: 75%;
+}
+
+
+.merchant .details { background-image: url(../images/6.jpg); }
+.exercise .details{ background-image: url(../images/gift.jpg); }
+.asked .details{ 
+    background-image: url(../images/question.jpg);
+    padding-bottom: 0;
+}
